@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceScrape_RestSharp", "FinanceScrape_RestSharp\FinanceScrape_RestSharp.csproj", "{4E61E5CB-FD2E-4DBD-B80B-164A2FD5E3B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E61E5CB-FD2E-4DBD-B80B-164A2FD5E3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E61E5CB-FD2E-4DBD-B80B-164A2FD5E3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E61E5CB-FD2E-4DBD-B80B-164A2FD5E3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E61E5CB-FD2E-4DBD-B80B-164A2FD5E3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD94737-8640-4BA8-A58A-0168B8AB0FFF}
+	EndGlobalSection
+EndGlobal
